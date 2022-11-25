@@ -130,4 +130,5 @@ dmypy.json
 
 # User-defined ignore
 dataset/
-notebooks/
+Task1/
+lightning_logs/
